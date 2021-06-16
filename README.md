@@ -364,7 +364,7 @@ def featured_image(browser):
     img_soup=soup(html, 'html.parser')
     
     ## MISSION TO MARS CHALLENGE
-## By Emmanuel Martinez 
+
 
 ## > Exported and Cleaned Mission_to_Mars_Challenge.ipynb code to scraping.py <
 
@@ -530,8 +530,6 @@ if __name__== "__main__":
     # If running as script, print scrapped data
     print(scrape_all())
 
-# By Emmanuel Martinez
-````
 
 ![name-of-you-image](https://github.com/emmanuelmartinezs/Mission-to-Mars/blob/main/Resources/Images/2.1.JPG?raw=true)
 
